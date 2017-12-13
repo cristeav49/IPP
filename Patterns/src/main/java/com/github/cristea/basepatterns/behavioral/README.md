@@ -19,8 +19,8 @@ Car Technician will receive a request and fix a problem.
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/behavioral/command/pattern/diagram_command.png "UML Command")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/behavioral/command/diagram_command.png "UML Command")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/behavioral/command/pattern/diagram_command.png "UML Command")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/behavioral/command/diagram_command.png "UML Command")
 
 Source Code:
 
@@ -51,14 +51,14 @@ The call center will contact the available taxi nearest to customer’s location
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/mediator.jpg "Call Center Taxis Libres")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/mediator.jpg "Call Center Taxis Libres")  
 
 * Implementation
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/behavioral/mediator/pattern/diagram_mediator.png "UML Mediator")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/behavioral/mediator/diagram_mediator.png "UML Mediator")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/behavioral/mediator/pattern/diagram_mediator.png "UML Mediator")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/behavioral/mediator/diagram_mediator.png "UML Mediator")
 
 Source Code:
 
@@ -87,15 +87,15 @@ This mechanism of rolling back uses the memento design pattern.
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/memento.jpg "States of transaction")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/memento.jpg "States of transaction")  
 ###### States of transaction 
 
 * Implementation
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/behavioral/memento/pattern/diagram_memento.png "UML Memento")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/behavioral/memento/diagram_memento.png "UML Memento")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/behavioral/memento/pattern/diagram_memento.png "UML Memento")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/behavioral/memento/diagram_memento.png "UML Memento")
 
 Source Code:
 
@@ -121,14 +121,14 @@ Subscribers can subscribe or unsubscribe to the newsletters.
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/observer.jpg "Newsletter")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/observer.jpg "Newsletter")  
 
 * Implementation
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/behavioral/observer/pattern/diagram_observer.png "UML Observer")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/behavioral/observer/diagram_observer.png "UML Observer")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/behavioral/observer/pattern/diagram_observer.png "UML Observer")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/behavioral/observer/diagram_observer.png "UML Observer")
 
 Source Code:
 
@@ -156,14 +156,14 @@ The user must choose the Strategy based on his possibilities, preferences.
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/strategy.jpg "Credit Card")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/strategy.jpg "Credit Card")  
 
 * Implementation
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/behavioral/strategy/pattern/diagram_strategy.png "UML Strategy")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/behavioral/strategy/diagram_strategy.png "UML Strategy")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/behavioral/strategy/pattern/diagram_strategy.png "UML Strategy")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/behavioral/strategy/diagram_strategy.png "UML Strategy")
 
 Source Code:
 

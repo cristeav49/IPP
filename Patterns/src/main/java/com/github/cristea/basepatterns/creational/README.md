@@ -19,15 +19,15 @@ Regardless of who that person is the title, "Men's 100 meters world record holde
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/singleton.jpg "Usain Bolt, Men's 100 meters world record holder")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/singleton.jpg "Usain Bolt, Men's 100 meters world record holder")  
 
 * Implementation
 
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/creational/singleton/pattern/diagram_singleton.png "UML Singleton")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/creational/singleton/diagram_singleton.png "UML Singleton")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/creational/singleton/pattern/diagram_singleton.png "UML Singleton")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/creational/singleton/diagram_singleton.png "UML Singleton")
 
 Source Code:
 
@@ -51,14 +51,14 @@ Sheep Dolly is the first mammal to be cloned, so Dolly is a duplicate.
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/prototype.jpg "Sheep Dolly")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/prototype.jpg "Sheep Dolly")  
 
 * Implementation
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/creational/prototype/pattern/diagram_prototype.png "UML Prototype")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/creational/prototype/diagram_prototype.png "UML Prototype")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/creational/prototype/pattern/diagram_prototype.png "UML Prototype")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/creational/prototype/diagram_prototype.png "UML Prototype")
 
 Source Code:
 
@@ -85,14 +85,14 @@ Whether a customer picks a classical hard disk or SSD for storage, the construct
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/builder.jpg "The Antec P180, a popular computer case, suitable for use as a silent PC")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/builder.jpg "The Antec P180, a popular computer case, suitable for use as a silent PC")  
 
 * Implementation
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/creational/builder/pattern/diagram_builder.png "UML Prototype")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/creational/builder/diagram_builder.png "UML Prototype")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/creational/builder/pattern/diagram_builder.png "UML Prototype")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/creational/builder/diagram_builder.png "UML Prototype")
 
 Source Code:
 
@@ -116,14 +116,14 @@ Plasticine is used for children's play. Plasticine is injected into predefined m
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/factorymethod.jpg "Cake molds, Han people, metal - Museum of Vietnamese History - Ho Chi Minh City")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/factorymethod.jpg "Cake molds, Han people, metal - Museum of Vietnamese History - Ho Chi Minh City")  
 
 * Implementation
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/creational/factorymethod/pattern/diagram_factory_method.png "UML Factory Method")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/creational/factorymethod/diagram_factory_method.png "UML Factory Method")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/creational/factorymethod/pattern/diagram_factory_method.png "UML Factory Method")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/creational/factorymethod/diagram_factory_method.png "UML Factory Method")
 
 Source Code:
 
@@ -150,7 +150,7 @@ The same machine is used to stamp French, Italian or German cards.
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/abstractfactory.jpg "Poker Cards Back")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/abstractfactory.jpg "Poker Cards Back")  
 
 
 

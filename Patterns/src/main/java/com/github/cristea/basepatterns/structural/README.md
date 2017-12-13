@@ -17,7 +17,7 @@ Some modify power or signal attributes, while others merely adapt the physical f
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/adapter.jpg "Adapter")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/adapter.jpg "Adapter")  
 
 * Implementation
 
@@ -25,8 +25,8 @@ UML:
 
 Adapter: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/structural/adapter/pattern/diagram_adapter.png "UML Adapter")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/structural/adapter/diagram_adapter.png "UML Adapter")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/structural/adapter/pattern/diagram_adapter.png "UML Adapter")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/structural/adapter/diagram_adapter.png "UML Adapter")
 
 Source Code:
 
@@ -52,14 +52,14 @@ There are different implementations of the steering wheels used in cars, buses, 
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/bridge.jpg "Bridge")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/bridge.jpg "Bridge")  
 
 * Implementation
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/structural/bridge/pattern/diagram_bridge.png "UML Bridge")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/structural/bridge/diagram_bridge.png "UML Bridge")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/structural/bridge/pattern/diagram_bridge.png "UML Bridge")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/structural/bridge/diagram_bridge.png "UML Bridge")
 
 Source Code:
 
@@ -90,14 +90,14 @@ This is a typical example for Facade.
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/facade.jpg "Wedding Event Management")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/facade.jpg "Wedding Event Management")  
 
 * Implementation
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/structural/facade/pattern/diagram_facade.png "UML Facade")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/structural/facade/diagram_facade.png "UML Facade")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/structural/facade/pattern/diagram_facade.png "UML Facade")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/structural/facade/diagram_facade.png "UML Facade")
 
 Source Code:
 
@@ -122,14 +122,14 @@ Database normalization is flyweight. Normalisation, is the process of organizing
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/flyweight.jpg "Database Normalization")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/flyweight.jpg "Database Normalization")  
 
 * Implementation
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/structural/flyweight/pattern/diagram_flyweight.png "UML Flyweight")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/structural/flyweight/diagram_flyweight.png "UML Flyweight")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/structural/flyweight/pattern/diagram_flyweight.png "UML Flyweight")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/structural/flyweight/diagram_flyweight.png "UML Flyweight")
 
 Source Code:
 
@@ -154,14 +154,14 @@ He is an accredited messenger, agent, or representative who is sent by one gover
 
 * Image
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/images/proxy.jpg "The Envoy Extraordinary")  
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/images/proxy.jpg "The Envoy Extraordinary")  
 
 * Implementation
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/structural/proxy/pattern/diagram_proxy.png "UML Proxy")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/structural/proxy/diagram_proxy.png "UML Proxy")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/structural/proxy/pattern/diagram_proxy.png "UML Proxy")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/structural/proxy/diagram_proxy.png "UML Proxy")
 
 Source Code:
 
