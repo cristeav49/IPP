@@ -159,8 +159,8 @@ The same machine is used to stamp French, Italian or German cards.
 
 UML: 
 
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/creational/abstractfactory/pattern/diagram_abstract_factory.png "UML Abstract Factory")
-![alt text](https://github.com/cristeav49/IPP/blob/master/src/main/java/com/github/cristea/basepatterns/creational/abstractfactory/diagram_abstract_factory.png "UML Abstract Factory")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/creational/abstractfactory/pattern/diagram_abstract_factory.png "UML Abstract Factory")
+![alt text](https://github.com/cristeav49/IPP/blob/master/Patterns/src/main/java/com/github/cristea/basepatterns/creational/abstractfactory/diagram_abstract_factory.png "UML Abstract Factory")
 
 Source Code:
 
