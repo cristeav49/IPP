@@ -19,10 +19,3 @@ Differences
 =
 - A facade not only simplifies an interface, it decouples a client from a subsystem of components
 - Facades and adapters may wrap multiple classes, but a facade's intent is to simplify, while an adapter's is to convert the interface to do something different.
-
- 
-
-OO Principle
-=
-Only talk to your friends (Demeter law)
-

@@ -1,14 +1,10 @@
 package view;
 
-import java.awt.Color;
-import java.awt.Graphics;
-import java.awt.Graphics2D;
-
-import javax.swing.JPanel;
-
-import observer.Observer;
 import model.PaintMainModel;
 import model.Shape;
+
+import javax.swing.*;
+import java.awt.*;
 
 public class DrawingFrame extends JPanel{
 	
